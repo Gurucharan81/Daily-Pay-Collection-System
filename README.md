@@ -1,4 +1,4 @@
-# 🏦 CoreLend CICS Banking System
+# 🏦Daily Pay Collection System
 
 ## 📌 Overview
 
